@@ -1,1 +1,2 @@
 new function 2 commit 1 .
+new function 2 commit 2 .
